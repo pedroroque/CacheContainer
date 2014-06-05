@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheContainer", "CacheContainer\CacheContainer.csproj", "{C59C3CAD-D8E5-4C00-87C9-0EEEA4E9E576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerTeste", "ContainerTeste\ContainerTeste.csproj", "{E2BCE2F3-D637-42E9-9DEB-64118331139F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{404A28BC-15CE-434A-9680-F9D1D00D989F}"
+	ProjectSection(SolutionItems) = preProject
+		CacheContainer.vsmdi = CacheContainer.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CacheContainer.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59C3CAD-D8E5-4C00-87C9-0EEEA4E9E576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59C3CAD-D8E5-4C00-87C9-0EEEA4E9E576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59C3CAD-D8E5-4C00-87C9-0EEEA4E9E576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59C3CAD-D8E5-4C00-87C9-0EEEA4E9E576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BCE2F3-D637-42E9-9DEB-64118331139F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BCE2F3-D637-42E9-9DEB-64118331139F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BCE2F3-D637-42E9-9DEB-64118331139F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BCE2F3-D637-42E9-9DEB-64118331139F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
